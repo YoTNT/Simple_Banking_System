@@ -6,4 +6,4 @@ This is a simple banking system with the rollback protection. It also prevent us
 
 ## Screenshot
 
-<img src="https://github.com/YoTNT/Simple_Banking_System/blob/master/Screenshot.png />
+<img src='https://github.com/YoTNT/Simple_Banking_System/blob/master/Screenshot.png' />
